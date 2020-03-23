@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleCounterMobile</string>
+    <string name="increment_by_1">Increment by 1</string>
+</resources>
